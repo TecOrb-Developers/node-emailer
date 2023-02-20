@@ -1,4 +1,4 @@
-## Send mail in TypeScript
+## Send mail using nodejs with TypeScript
 
 ## Introduction
     Send mail in node js using nodemailer.We have provide send mail api like- send mail by nodemailer api.
